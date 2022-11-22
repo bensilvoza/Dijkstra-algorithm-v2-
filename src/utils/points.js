@@ -1,0 +1,25 @@
+let points = [
+  { label: "D", id: "d" },
+  { label: "F", id: "f" },
+  { label: "M", id: "m" },
+  { label: "H", id: "h" },
+  { label: "C", id: "c" },
+  { label: "L", id: "l" },
+  { label: "B", id: "b" },
+  { label: "R", id: "r" },
+  { label: "A", id: "a" },
+  { label: "Y", id: "y" },
+  { label: "J", id: "j" },
+  { label: "I", id: "i" },
+  { label: "P", id: "p" },
+  { label: "U", id: "u" },
+  { label: "Z", id: "z" },
+  { label: "S", id: "s" },
+  { label: "X", id: "x" },
+  { label: "V", id: "v" },
+  { label: "N", id: "n" },
+  { label: "W", id: "w" },
+  { label: "Q", id: "q" },
+];
+
+export default points;
